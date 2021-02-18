@@ -1,6 +1,6 @@
 {
   "appId": "io.ionic.starter",
-  "appName": "BMI Calculator",
+  "appName": "bmi-calculator",
   "bundledWebRuntime": false,
   "npmClient": "npm",
   "webDir": "build",
